@@ -1,1 +1,57 @@
+Project Plan : 
+
+
+
+
+============================================================================================================================================================================================================
+
 Trello Link : https://trello.com/invite/b/69979e1242884e761b3f7bf1/ATTIe1e4a29432d398bbc6d6167263b7a740F092F791/healthy-recipe-generator-sdg-3
+
+
+============================================================================================================================================================================================================
+
+REQUIREMNTS:
+
+User Requirements (UR) 
+
+UR1 Users should be able to enter ingredients they have at home.
+UR2 Users should be able to generate healthy recipe suggestions based on entered ingredients.
+UR3 Users should be able to filter recipes by dietary preference (vegan/vegetarian).
+UR4 Users should be able to filter recipes by calorie range.
+UR5 Users should be able to view recipes that take under 30 minutes.
+UR6 Users should be able to view nutrition details (calories, protein, carbs, fats).
+UR7 Users should be able to save favourite recipes.
+UR8 Users should be able to share recipes with others.
+UR9 Users should be able to rate recipes.
+UR10 Users should be able to view simple health tips with recipes.
+UR11 New users should be able to sign up so their data (profile, favourites, credits) can be saved.
+UR12 Returning users should be able to log in securely to access their account.
+UR13 Users should be able to reset their password if forgotten.
+UR14 Users should be able to log out to protect their account on shared devices.
+UR15 Users should be able to update profile preferences such as diet preference and health goal.
+UR16 Free users should be able to see their remaining credits.
+UR17 Free users should have recipe generation limited by credits.
+UR18 Users should be able to view premium benefits on an upgrade page.
+UR19 Users should be able to upgrade to premium through a checkout flow (simulated in prototype).
+UR20 Premium users should be able to generate a weekly meal plan.
+UR21 Admin should be able to view usage metrics for monitoring.
+UR22 Admin should be able to manage user accounts (view/suspend).
+UR23 Admin should be able to manage subscription tiers and credit allocations.
+UR24 Users should see a loading screen while recipes are being generated.
+UR25 Users should see a clear, friendly error message when no suitable recipe can be generated.
+UR26 Users should be able to view saved favourite recipes.
+UR27 Premium users should be able to view their weekly meal plan.
+--------------------------------------------------------------------------------------------------------------
+Non-Functional Requirements (NFR)
+NFR1 The app should be easy for first-time users to understand, with clear labels and buttons.
+NFR2 Navigation and layout should be consistent across screens.
+NFR3 The design should fit mobile screens and be easy to use with touch.
+NFR4 The app should give clear feedback (loading, success, error, no results).
+NFR5 The prototype should have smooth flows with no broken links or dead ends.
+NFR6 Login and checkout screens should look professional and trustworthy (UI-level security).
+NFR7 Text should be readable and buttons should be large enough to tap comfortably.
+
+
+============================================================================================================================================================================================================
+SPRINT NOTES:
+
