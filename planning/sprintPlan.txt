@@ -1,0 +1,22 @@
+For our project we will have a total of 3 sprints.
+
+how each sprint works:
+
+each sprint last 1 week from starting(unless there is a special reason) with tasks always proceeding through its relevant states(analysis,
+design,implementation) and then finally progressing to review where another group member checks the work for bugs or any faults and if all is fine
+it is moved to done state. for each state generally 2-3 sentances are written to provide a brief description of what was done. At the end
+of each sprint we evaulate how it went and what we learned from it.
+
+1st sprint:
+
+initial analysis and planning done, diagrams such as the use case diagram and class diagram are completed along with the project vision
+and justification document.
+
+2nd sprint:
+
+focus on implementation and preparing final report and slides, update burndown chart and begin working on the remaining final deliverables.
+
+3rd sprint:
+
+all tasks should be done or near completion, testing is done, final submission preperations are to be done and assignment submitted and presentation
+is done by this point. Burn down chart and other final documents are updated and double checked.
