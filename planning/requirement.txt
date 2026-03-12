@@ -1,0 +1,48 @@
+REQUIREMENT 
+
+FUNCTIONAL REQUIREMENT
+
+The system shall display onboarding screens to introduce the main features of system.
+The system shall allow users to register a new account and verify registration through OTP confirmation.
+The system shall allow registered users to log in securely to access their account.
+The system shall allow users to reset their password through email and OTP verification.
+The system shall allow users to enter available ingredients for recipe generation.
+The system shall allow users to apply filters such as dietary preference, calorie range, and cooking time to refine recipe results.
+The system shall generate healthy recipe results based on the entered ingredients and selected filters.
+The system shall display appropriate feedback during recipe generation, including a loading state and a no-result message when necessary.
+The system shall display recipe results with summary information such as cooking time, calories, and rating.
+The system shall display detailed recipe information, including ingredients, nutrition details, and preparation instructions.
+The system shall allow users to save recipes to a favourites list and view saved favourite recipes.
+The system shall allow users to share recipe details with others.
+The system shall display the remaining credits for free users and limit recipe generation based on available credits.
+The system shall allow users to view premium subscription plans and benefits.
+The system shall allow users to subscribe to a premium plan through a checkout and payment verification process.
+The system shall display payment progress and confirmation after a successful subscription.
+The system shall update the user account to premium status after a successful subscription.
+The system shall allow users to view and edit their profile information.
+The system shall allow users to update wellness preferences such as health goals and dietary preferences.
+The system shall allow premium users to generate, view, and regenerate a weekly meal plan.
+The system shall allow premium users to cancel their subscription and view the subscription end notice.
+The system shall allow admin to view usage metrics through an admin dashboard.
+The system shall allow admin to manage subscription plans.
+
+
+NON FUNCTIONAL REQUIREMENT
+
+The system shall respond to normal user actions within 3 seconds under normal operating conditions.
+The system shall display a loading indicator when recipe generation or payment processing takes longer than 2 seconds.
+The system shall complete recipe generation within 5 seconds under normal usage conditions.
+The system shall require authentication before allowing users to access personal account features.
+The system shall use OTP verification for account registration and password reset.
+The system shall restrict admin functions so that only authorized admin users can access the admin dashboard and manage subscription plans.
+The system shall protect payment information during the checkout process.
+The system shall provide a consistent interface design across all screens in the application.
+The system shall display clear instructions, labels, and feedback messages for important user actions.
+The system shall be usable on common mobile screen sizes without affecting readability or layout clarity.
+The system shall allow users to complete core tasks, such as recipe generation and subscription, with minimal navigation steps.
+The system shall maintain stable operation during recipe generation, payment, profile update, and subscription management processes.
+The system shall preserve user data such as favourites, wellness preferences, profile information, and subscription status correctly after each update.
+The system shall display appropriate error or status messages when an operation cannot be completed successfully.
+The system shall remain available for normal use at least 99% of the time, excluding scheduled maintenance.
+The system shall be designed so that features such as subscription plans, wellness preferences, and weekly meal plans can be updated with minimal impact on other modules.
+The system shall support modern mobile application interfaces and maintain proper layout across supported devices.
