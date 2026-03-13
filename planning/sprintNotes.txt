@@ -1,0 +1,21 @@
+sprint 1:
+
+generally tasks had progressed fine and were completed accordingly 
+but the wireframe had gotten delayed due to the member who had been assigned to 
+make the wireframe getting sick and we had to re-evaluate our timeline based on this. 
+
+sprint 2:
+
+In sprint 2 we started developing our prototype and here we used trello to closely track the details of
+what was being developed by using a checklist and every part of the prototype that was completed would be 
+tested and then put as done, becoming a part of the official prototype.
+
+sprint 3:
+
+In sprint 3 we worked on finishing off the leftover features for the prototype. 
+This includes features that were nice to have but not mandatory for the core functionality of the software 
+and development of test cases and get user feedback on our software. We were able to succesfully do all of 
+this with all tasks beign compelted in time and while the test cases took a while the quality was good 
+and the user feedback provided useful insight on what features were adequate, which needed improvement 
+and anything users wanted which we had not already built or anticipated. 
+
